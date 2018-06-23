@@ -10,4 +10,4 @@ This is a simple project with Python that you can easily generate CoreML Models 
 ## Note
 1. TuriCreate uses Transfer Learning Technique for faster training, that you can read more about it [Here](https://machinelearningmastery.com/transfer-learning-for-deep-learning/).
 2. Generated .MLModel can be used in iOS/MacOS Projects alongside CoreML.
-3. MNIST Dataset is included in this project.
+3. [MNIST](http://yann.lecun.com/exdb/mnist/) Dataset is included in this project.
